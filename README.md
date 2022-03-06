@@ -34,3 +34,7 @@ This project was created to simplify the process of making a high quality README
 ```
 node index
 ```
+![portfolio demo](./assets/media/readme-generator.gif)
+
+Walkthrough Video
+https://drive.google.com/file/d/1pmorGPGRdbXEC1sR0hpY1-44sGxmHEFg/view
