@@ -1,7 +1,7 @@
 # Professional README Generator 
 by Christan Fox
 
-![Github license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+![Github license](https://img.shields.io/badge/license-MPL2.0-yellowgreen.svg)
 
 ## Table of Contents
 * [Description](#description)
@@ -44,4 +44,4 @@ npm test
 
 ## License
       
-      Licensed under the MIT license.
+      Licensed under the MPL2.0 license.
