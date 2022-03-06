@@ -34,4 +34,3 @@ This project was created to simplify the process of making a high quality README
 ```
 node index
 ```
-# -professional-readme-generator
