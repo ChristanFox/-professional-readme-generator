@@ -34,7 +34,6 @@ This project was created to simplify the process of making a high quality README
 ```
 node index
 ```
-
 ![portfolio demo](./assets/media/readme-generator.gif)
 
 Walkthrough Video
